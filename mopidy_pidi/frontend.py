@@ -23,7 +23,7 @@ class PiDiConfig:
         self.spi_data_command_pin = 9
         self.spi_speed_mhz = 80
         self.backlight_pin = 13
-        self.size = 240
+        self.size = 320
         self.blur_album_art = True
 
 
